@@ -61,3 +61,4 @@ A Simple Linear Regression model was trained to estimate salary using years of e
 - Simple_Linear_Regression.ipynb – Python notebook containing the code, outputs and plots.
 - Salary_dataset.csv – Dataset used for the activity.
 - README.md – Project description and summary.
+- https://github.com/complexiota
